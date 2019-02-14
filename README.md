@@ -1,3 +1,4 @@
+# 完整代码请访问 ![HMusic](https://github.com/HEternally/weChatApp-HMusic)
 # WxPhone_list
 微信小程序仿通讯录
 ## 效果图 ##
