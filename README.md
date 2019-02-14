@@ -1,4 +1,4 @@
-# 完整代码请访问 ![HMusic](https://github.com/HEternally/weChatApp-HMusic)
+# 完整代码请访问 [HMusic][5]
 # WxPhone_list
 微信小程序仿通讯录
 ## 效果图 ##
@@ -218,3 +218,4 @@ list:[
   [2]: https://developers.weixin.qq.com/miniprogram/dev/api/wxml-nodes-info.html?search-key=createSelectorQuery
   [3]: https://github.com/HEternally/WxPhone_list
   [4]: http://heternally.ka94.com/
+  [5]: https://github.com/HEternally/weChatApp-HMusic
